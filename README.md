@@ -5,6 +5,8 @@ For this presentation, I covered logical modeling, focusing on one-to-many and m
 
 I used ChatGPT (LLM) to help brainstorm examples that would make the concepts easier to explain. I created the slides, diagrams, tables, and other visuals myself. The overall presentation structure and final content were put together by me.
 
+Putting this presentation together helped me better understand how relationships between tables actually work and why choosing the right structure matters. I think using examples like Members and Orders and Movies and Actors made the concepts easier to connect to real-world situations. It also helped me see how something like a junction table makes many-to-many relationships easier to organize.
+
 **Sources I used:**
 
 - [GoodData – How to Build Logical Data Models](https://www.gooddata.ai/blog/how-build-logical-data-models-scale-analytical-applications/)
