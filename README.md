@@ -13,4 +13,4 @@ I used ChatGPT (LLM) to help brainstorm examples that would make the concepts ea
 - [IBM – Entities for Different Types of Relationships](https://www.ibm.com/docs/en/db2-for-zos/12.0.0?topic=modeling-entities-different-types-relationships)
 - [Devart – SQL Relationships](https://www.devart.com/dbforge/sql/studio/sql-relationships.html)
 
-**Video link:** https://youtu.be/WR8XY1YSYw8
+**Video link:** https://youtu.be/zrztYVTgwzU
